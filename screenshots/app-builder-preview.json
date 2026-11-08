@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Yardline",
+      "hasCanvas": false,
+      "bodyTextLen": 2535,
+      "bodyTextHash": "33311078ccd19edada5cb84b31cb2be8e4400bf880f6c0edc3e8e93a3002cb0f",
+      "bodyTextPrefix": "KINDERGARTEN YARD Yardline Desk prototype of your ESP32 tracker:",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Yardline",
+      "hasCanvas": false,
+      "bodyTextLen": 2535,
+      "bodyTextHash": "4a63753d53c1d9e8057a751c375fcb1fb3277b4dadfdc82d7b98a6a2220839c1",
+      "bodyTextPrefix": "KINDERGARTEN YARD Yardline Desk prototype of your ESP32 tracker:",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
